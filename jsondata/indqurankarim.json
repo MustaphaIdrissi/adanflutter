@@ -1,0 +1,801 @@
+[
+    {
+      "Idsura": 1,
+      "Namesurah": "الفاتحة",
+     "Type": "مكية",
+      "Countaya": 7,
+     "Page": 1
+    },
+    {
+      "Idsura": 2,
+      "Namesurah": "البقرة",
+     "Type": "مدنية",
+      "Countaya": 286,
+     "Page": 2
+    },
+    {
+      "Idsura": 3,
+      "Namesurah": "آل عمران",
+     "Type": "مدنية",
+      "Countaya": 200,
+     "Page": 50
+    },
+    {
+      "Idsura": 4,
+      "Namesurah": "النساء",
+     "Type": "مدنية",
+      "Countaya": 176,
+     "Page": 77
+    },
+    {
+      "Idsura": 5,
+      "Namesurah": "المائدة",
+     "Type": "مدنيّة",
+      "Countaya": 120,
+     "Page": 106
+    },
+    {
+      "Idsura": 6,
+      "Namesurah": "الأنعام",
+     "Type": "مكية",
+      "Countaya": 165,
+     "Page": 128
+    },
+    {
+      "Idsura": 7,
+      "Namesurah": "الأعراف",
+     "Type": "مكية",
+      "Countaya": 206,
+     "Page": 151
+    },
+    {
+      "Idsura": 8,
+      "Namesurah": "الأنفال",
+     "Type": "مدنية",
+      "Countaya": 75,
+     "Page": 177
+    },
+    {
+      "Idsura": 9,
+      "Namesurah": "التوبة",
+     "Type": "مدنية",
+      "Countaya": 129,
+     "Page": 187
+    },
+    {
+      "Idsura": 10,
+      "Namesurah": "يونس",
+     "Type": "مكية",
+      "Countaya": 109,
+     "Page": 208
+    },
+    {
+      "Idsura": 11,
+      "Namesurah": "هود",
+     "Type": "مكية",
+      "Countaya": 123,
+     "Page": 221
+    },
+    {
+      "Idsura": 12,
+      "Namesurah": "يوسف",
+     "Type": "مكية",
+      "Countaya": 111,
+     "Page": 235
+    },
+    {
+      "Idsura": 13,
+      "Namesurah": "الرعد",
+     "Type": "مدنية",
+      "Countaya": 43,
+     "Page": 249
+    },
+    {
+      "Idsura": 14,
+      "Namesurah": "ابراهيم",
+     "Type": "مكية",
+      "Countaya": 52,
+     "Page": 255
+    },
+    {
+      "Idsura": 15,
+      "Namesurah": "الحجر",
+     "Type": "مكية",
+      "Countaya": 99,
+     "Page": 262
+    },
+    {
+      "Idsura": 16,
+      "Namesurah": "النحل",
+     "Type": "مكية",
+      "Countaya": 128,
+     "Page": 267
+    },
+    {
+      "Idsura": 17,
+      "Namesurah": "الإسراء",
+     "Type": "مكية",
+      "Countaya": 111,
+     "Page": 282
+    },
+    {
+      "Idsura": 18,
+      "Namesurah": "الكهف",
+     "Type": "مكية",
+      "Countaya": 110,
+     "Page": 293
+    },
+    {
+      "Idsura": 19,
+      "Namesurah": "مريم",
+     "Type": "مكية",
+      "Countaya": 98,
+     "Page": 305
+    },
+    {
+      "Idsura": 20,
+      "Namesurah": "طه",
+     "Type": "مكية",
+      "Countaya": 135,
+     "Page": 312
+    },
+    {
+      "Idsura": 21,
+      "Namesurah": "الأنبياء",
+     "Type": "مكية",
+      "Countaya": 112,
+     "Page": 322
+    },
+    {
+      "Idsura": 22,
+      "Namesurah": "الحج",
+     "Type": "مدنية",
+      "Countaya": 78,
+     "Page": 332
+    },
+    {
+      "Idsura": 23,
+      "Namesurah": "المؤمنون",
+     "Type": "مكية",
+      "Countaya": 118,
+     "Page": 342
+    },
+    {
+      "Idsura": 24,
+      "Namesurah": "النور",
+     "Type": "مدنية",
+      "Countaya": 64,
+     "Page": 350
+    },
+    {
+      "Idsura": 25,
+      "Namesurah": "الفرقان",
+     "Type": "مكية",
+      "Countaya": 77,
+     "Page": 359
+    },
+    {
+      "Idsura": 26,
+      "Namesurah": "الشعراء",
+     "Type": "مكية",
+      "Countaya": 227,
+     "Page": 367
+    },
+    {
+      "Idsura": 27,
+      "Namesurah": "النمل",
+     "Type": "مكية",
+      "Countaya": 93,
+     "Page": 377
+    },
+    {
+      "Idsura": 28,
+      "Namesurah": "القصص",
+     "Type": "مكية",
+      "Countaya": 88,
+     "Page": 385
+    },
+    {
+      "Idsura": 29,
+      "Namesurah": "العنكبوت",
+     "Type": "مكية",
+      "Countaya": 69,
+     "Page": 396
+    },
+    {
+      "Idsura": 30,
+      "Namesurah": "الروم",
+     "Type": "مكية",
+      "Countaya": 60,
+     "Page": 404
+    },
+    {
+      "Idsura": 31,
+      "Namesurah": "لقمان",
+     "Type": "مكية",
+      "Countaya": 34,
+     "Page": 411
+    },
+    {
+      "Idsura": 32,
+      "Namesurah": "السجدة",
+     "Type": "مكية",
+      "Countaya": 30,
+     "Page": 415
+    },
+    {
+      "Idsura": 33,
+      "Namesurah": "الأحزاب",
+     "Type": "مدنية",
+      "Countaya": 73,
+     "Page": 418
+    },
+    {
+      "Idsura": 34,
+      "Namesurah": "سبأ",
+     "Type": "مكية",
+      "Countaya": 54,
+     "Page": 428
+    },
+    {
+      "Idsura": 35,
+      "Namesurah": "فاطر",
+     "Type": "مكية",
+      "Countaya": 45,
+     "Page": 434
+    },
+    {
+      "Idsura": 36,
+      "Namesurah": "يس",
+     "Type": "مكية",
+      "Countaya": 83,
+     "Page": 440
+    },
+    {
+      "Idsura": 37,
+      "Namesurah": "الصافات",
+     "Type": "مكية",
+      "Countaya": 182,
+     "Page": 446
+    },
+    {
+      "Idsura": 38,
+      "Namesurah": "سورة ص",
+     "Type": "مكية",
+      "Countaya": 88,
+     "Page": 453
+    },
+    {
+      "Idsura": 39,
+      "Namesurah": "الزمر",
+     "Type": "مكية",
+      "Countaya": 75,
+     "Page": 458
+    },
+    {
+      "Idsura": 40,
+      "Namesurah": "غافر",
+     "Type": "مكية",
+      "Countaya": 85,
+     "Page": 467
+    },
+    {
+      "Idsura": 41,
+      "Namesurah": "فصلت",
+     "Type": "مكية",
+      "Countaya": 54,
+     "Page": 477
+    },
+    {
+      "Idsura": 42,
+      "Namesurah": "الشورى",
+     "Type": "مكية",
+      "Countaya": 53,
+     "Page": 483
+    },
+    {
+      "Idsura": 43,
+      "Namesurah": "الزخرف",
+     "Type": "مكية",
+      "Countaya": 89,
+     "Page": 489
+    },
+    {
+      "Idsura": 44,
+      "Namesurah": "الدخان",
+     "Type": "مكية",
+      "Countaya": 59,
+     "Page": 496
+    },
+    {
+      "Idsura": 45,
+      "Namesurah": "الجاثية",
+     "Type": "مكية",
+      "Countaya": 37,
+     "Page": 499
+    },
+    {
+      "Idsura": 46,
+      "Namesurah": "الأحقاف",
+     "Type": "مكية",
+      "Countaya": 35,
+     "Page": 502
+    },
+    {
+      "Idsura": 47,
+      "Namesurah": "محمد",
+     "Type": "مدنية",
+      "Countaya": 38,
+     "Page": 507
+    },
+    {
+      "Idsura": 48,
+      "Namesurah": "الفتح",
+     "Type": "مدنية",
+      "Countaya": 29,
+     "Page": 511
+    },
+    {
+      "Idsura": 49,
+      "Namesurah": "الحجرات",
+     "Type": "مدنية",
+      "Countaya": 18,
+     "Page": 515
+    },
+    {
+      "Idsura": 50,
+      "Namesurah": "سورة ق",
+     "Type": "مكية",
+      "Countaya": 45,
+     "Page": 518
+    },
+    {
+      "Idsura": 51,
+      "Namesurah": "الذاريات",
+     "Type": "مكية",
+      "Countaya": 60,
+     "Page": 520
+    },
+    {
+      "Idsura": 52,
+      "Namesurah": "الطور",
+     "Type": "مكية",
+      "Countaya": 49,
+     "Page": 523
+    },
+    {
+      "Idsura": 53,
+      "Namesurah": "النجم",
+     "Type": "مكية",
+      "Countaya": 62,
+     "Page": 526
+    },
+    {
+      "Idsura": 54,
+      "Namesurah": "القمر",
+     "Type": "مكية",
+      "Countaya": 55,
+     "Page": 528
+    },
+    {
+      "Idsura": 55,
+      "Namesurah": "الرحمن",
+     "Type": "مدنية",
+      "Countaya": 78,
+     "Page": 531
+    },
+    {
+      "Idsura": 56,
+      "Namesurah": "الواقعة",
+     "Type": "مكية",
+      "Countaya": 96,
+     "Page": 534
+    },
+    {
+      "Idsura": 57,
+      "Namesurah": "الحديد",
+     "Type": "مدنية",
+      "Countaya": 29,
+     "Page": 537
+    },
+    {
+      "Idsura": 58,
+      "Namesurah": "المجادلة",
+     "Type": "مدنية",
+      "Countaya": 22,
+     "Page": 542
+    },
+    {
+      "Idsura": 59,
+      "Namesurah": "الحشر",
+     "Type": "مدنية",
+      "Countaya": 24,
+     "Page": 545
+    },
+    {
+      "Idsura": 60,
+      "Namesurah": "الممتحنة",
+     "Type": "مدنية",
+      "Countaya": 13,
+     "Page": 549
+    },
+    {
+      "Idsura": 61,
+      "Namesurah": "الصف",
+     "Type": "مدنية",
+      "Countaya": 14,
+     "Page": 551
+    },
+    {
+      "Idsura": 62,
+      "Namesurah": "الجمعة",
+     "Type": "مدنية",
+      "Countaya": 11,
+     "Page": 553
+    },
+    {
+      "Idsura": 63,
+      "Namesurah": "المنافقون",
+     "Type": "مدنية",
+      "Countaya": 11,
+     "Page": 554
+    },
+    {
+      "Idsura": 64,
+      "Namesurah": "التغابن",
+     "Type": "مدنية",
+      "Countaya": 18,
+     "Page": 556
+    },
+    {
+      "Idsura": 65,
+      "Namesurah": "الطلاق",
+     "Type": "مدنية",
+      "Countaya": 12,
+     "Page": 558
+    },
+    {
+      "Idsura": 66,
+      "Namesurah": "التحريم",
+     "Type": "مدنية",
+      "Countaya": 12,
+     "Page": 560
+    },
+    {
+      "Idsura": 67,
+      "Namesurah": "الملك",
+     "Type": "مكية",
+      "Countaya": 30,
+     "Page": 562
+    },
+    {
+      "Idsura": 68,
+      "Namesurah": "القلم",
+     "Type": "مكية",
+      "Countaya": 52,
+     "Page": 564
+    },
+    {
+      "Idsura": 69,
+      "Namesurah": "الحاقة",
+     "Type": "مكية",
+      "Countaya": 52,
+     "Page": 566
+    },
+    {
+      "Idsura": 70,
+      "Namesurah": "المعارج",
+     "Type": "مكية",
+      "Countaya": 44,
+     "Page": 568
+    },
+    {
+      "Idsura": 71,
+      "Namesurah": "نوح",
+     "Type": "مكية",
+      "Countaya": 28,
+     "Page": 570
+    },
+    {
+      "Idsura": 72,
+      "Namesurah": "الجن",
+     "Type": "مكية",
+      "Countaya": 28,
+     "Page": 572
+    },
+    {
+      "Idsura": 73,
+      "Namesurah": "المزمل",
+     "Type": "مكية",
+      "Countaya": 20,
+     "Page": 574
+    },
+    {
+      "Idsura": 74,
+      "Namesurah": "المدثر",
+     "Type": "مكية",
+      "Countaya": 56,
+     "Page": 575
+    },
+    {
+      "Idsura": 75,
+      "Namesurah": "القيامة",
+     "Type": "مكية",
+      "Countaya": 40,
+     "Page": 577
+    },
+    {
+      "Idsura": 76,
+      "Namesurah": "الإنسان",
+     "Type": "مدنية",
+      "Countaya": 31,
+     "Page": 578
+    },
+    {
+      "Idsura": 77,
+      "Namesurah": "المرسلات",
+     "Type": "مكية",
+      "Countaya": 50,
+     "Page": 580
+    },
+    {
+      "Idsura": 78,
+      "Namesurah": "النبأ",
+     "Type": "مكية",
+      "Countaya": 40,
+     "Page": 582
+    },
+    {
+      "Idsura": 79,
+      "Namesurah": "النازعات",
+     "Type": "مكية",
+      "Countaya": 46,
+     "Page": 583
+    },
+    {
+      "Idsura": 80,
+      "Namesurah": "عبس",
+     "Type": "مكية",
+      "Countaya": 42,
+     "Page": 585
+    },
+    {
+      "Idsura": 81,
+      "Namesurah": "التكوير",
+     "Type": "مكية",
+      "Countaya": 29,
+     "Page": 586
+    },
+    {
+      "Idsura": 82,
+      "Namesurah": "الإنفطار",
+     "Type": "مكية",
+      "Countaya": 19,
+     "Page": 587
+    },
+    {
+      "Idsura": 83,
+      "Namesurah": "المطففين",
+     "Type": "مكية",
+      "Countaya": 36,
+     "Page": 587
+    },
+    {
+      "Idsura": 84,
+      "Namesurah": "الانشقاق",
+     "Type": "مكية",
+      "Countaya": 25,
+     "Page": 589
+    },
+    {
+      "Idsura": 85,
+      "Namesurah": "البروج",
+     "Type": "مكية",
+      "Countaya": 22,
+     "Page": 590
+    },
+    {
+      "Idsura": 86,
+      "Namesurah": "الطارق",
+     "Type": "مكية",
+      "Countaya": 17,
+     "Page": 591
+    },
+    {
+      "Idsura": 87,
+      "Namesurah": "الأعلى",
+     "Type": "مكية",
+      "Countaya": 19,
+     "Page": 591
+    },
+    {
+      "Idsura": 88,
+      "Namesurah": "الغاشية",
+     "Type": "مكية",
+      "Countaya": 26,
+     "Page": 592
+    },
+    {
+      "Idsura": 89,
+      "Namesurah": "الفجر",
+     "Type": "مكية",
+      "Countaya": 30,
+     "Page": 593
+    },
+    {
+      "Idsura": 90,
+      "Namesurah": "البلد",
+     "Type": "مكية",
+      "Countaya": 20,
+     "Page": 594
+    },
+    {
+      "Idsura": 91,
+      "Namesurah": "الشمس",
+     "Type": "مكية",
+      "Countaya": 15,
+     "Page": 595
+    },
+    {
+      "Idsura": 92,
+      "Namesurah": "الليل",
+     "Type": "مكية",
+      "Countaya": 21,
+     "Page": 595
+    },
+    {
+      "Idsura": 93,
+      "Namesurah": "الضحى",
+     "Type": "مكية",
+      "Countaya": 11,
+     "Page": 596
+    },
+    {
+      "Idsura": 94,
+      "Namesurah": "الشرح",
+     "Type": "مكية",
+      "Countaya": 8,
+     "Page": 596
+    },
+    {
+      "Idsura": 95,
+      "Namesurah": "التين",
+     "Type": "مكية",
+      "Countaya": 8,
+     "Page": 597
+    },
+    {
+      "Idsura": 96,
+      "Namesurah": "العلق",
+     "Type": "مكية",
+      "Countaya": 19,
+     "Page": 597
+    },
+    {
+      "Idsura": 97,
+      "Namesurah": "القدر",
+     "Type": "مكية",
+      "Countaya": 5,
+     "Page": 598
+    },
+    {
+      "Idsura": 98,
+      "Namesurah": "البينة",
+     "Type": "مدنية",
+      "Countaya": 8,
+     "Page": 598
+    },
+    {
+      "Idsura": 99,
+      "Namesurah": "الزلزلة",
+     "Type": "مدنية",
+      "Countaya": 8,
+     "Page": 599
+    },
+    {
+      "Idsura": 100,
+      "Namesurah": "العاديات",
+     "Type": "مكية",
+      "Countaya": 11,
+     "Page": 599
+    },
+    {
+      "Idsura": 101,
+      "Namesurah": "القارعة",
+     "Type": "مكية",
+      "Countaya": 11,
+     "Page": 600
+    },
+    {
+      "Idsura": 102,
+      "Namesurah": "التكاثر",
+     "Type": "مكية",
+      "Countaya": 8,
+     "Page": 600
+    },
+    {
+      "Idsura": 103,
+      "Namesurah": "العصر",
+     "Type": "مكية",
+      "Countaya": 3,
+     "Page": 601
+    },
+    {
+      "Idsura": 104,
+      "Namesurah": "الهمزة",
+     "Type": "مكية",
+      "Countaya": 9,
+     "Page": 601
+    },
+    {
+      "Idsura": 105,
+      "Namesurah": "الفيل",
+     "Type": "مكية",
+      "Countaya": 5,
+     "Page": 601
+    },
+    {
+      "Idsura": 106,
+      "Namesurah": "قريش",
+     "Type": "مكية",
+      "Countaya": 4,
+     "Page": 602
+    },
+    {
+      "Idsura": 107,
+      "Namesurah": "الماعون",
+     "Type": "مكية",
+      "Countaya": 7,
+     "Page": 602
+    },
+    {
+      "Idsura": 108,
+      "Namesurah": "الكوثر",
+     "Type": "مكية",
+      "Countaya": 3,
+     "Page": 602
+    },
+    {
+      "Idsura": 109,
+      "Namesurah": "الكافرون",
+     "Type": "مكية",
+      "Countaya": 6,
+     "Page": 603
+    },
+    {
+      "Idsura": 110,
+      "Namesurah": "النصر",
+     "Type": "مدنية",
+      "Countaya": 3,
+     "Page": 603
+    },
+    {
+      "Idsura": 111,
+      "Namesurah": "المسد",
+     "Type": "مكية",
+      "Countaya": 5,
+     "Page": 603
+    },
+    {
+      "Idsura": 112,
+      "Namesurah": "الإخلاص",
+     "Type": "مكية",
+      "Countaya": 4,
+     "Page": 604
+    },
+    {
+      "Idsura": 113,
+      "Namesurah": "الفلق",
+     "Type": "مدنية",
+      "Countaya": 5,
+     "Page": 604
+    },
+    {
+      "Idsura": 114,
+      "Namesurah": "الناس",
+     "Type": "مدنية",
+      "Countaya": 6,
+     "Page": 604
+    }
+  ]
+  
